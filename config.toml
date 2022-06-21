@@ -2,3 +2,4 @@ baseURL = 'http://example.org/'
 languageCode = 'ja'
 title = 'わたしの新しいHugoで作ったサイトです'
 theme = 'ananke'
+relativeurls = true
